@@ -136,7 +136,7 @@ Key charts: Active Revenue by Stage | Weighted Forecast by Stage | Active Deals 
 
 This is Project 2 of my **120-Day Data Analytics Portfolio Challenge** — a building-in-public initiative where I document my journey from career switcher to data analyst.
 
-Follow my journey on [LinkedIn](#) and [X/Twitter](#).
+Follow my journey on [LinkedIn](www.linkedin.com/in/ruth-chika) and [X/Twitter](https://x.com/RuthChika12).
 
 ---
 
