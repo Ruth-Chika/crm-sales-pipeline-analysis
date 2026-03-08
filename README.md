@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This project involved a full end-to-end analysis of a CRM sales pipeline dataset containing 3,000 deal records. Starting from raw data, I performed data cleaning, created derived columns, built a data model using Power Pivot, wrote DAX measures, and designed three interactive dashboards to surface key business insights.
+This project involved a full end-to-end analysis of a CRM sales pipeline dataset containing 3,000 deal records. Starting from raw data, I performed data cleaning, created derived columns, built a data model using Power Pivot, wrote DAX measures, and designed three interactive dashboards to surface key business insights.![CRM Sales Pipeline Dashboard](Group_1.png)
 
 The goal was to answer one central question: **What does this pipeline actually tell us about the health of this sales team?**
 
